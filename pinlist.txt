@@ -1,0 +1,36 @@
+FollowBot pinlist
+
+///Arduino///
+
+GND		GND
+5V		VCC5V
+RAW		VCC12V
+RST		Switch reset
+
+D2		Ultrasonic 1
+D3		Ultrasonic 2
+D5		Motor 1-1
+D6		Motor 1-2
+D8		Switch kill
+D9		LED3
+D10		Motor 2-1
+D11		Motor 2-2
+D12		Switch enable
+D13		LED2
+
+//////On mainboard//////
+
+///Ultrasonic///
+
+1		VCC
+2		Signal
+3		GND
+
+///To control board///
+
+1		Switch reset
+2		LED2
+3		GND
+4		VCC
+5		Switch enable
+6		NC
